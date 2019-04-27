@@ -1,0 +1,50 @@
+springMVC  springboot+shiro 
+
+sevlet ,jsp
+
+
+
+
+
+蚂蚁技术 专题化 电商  3（6-12）+2（13-18）（项目）+2（19-23）
+
+（6-24）
+
+
+
+项目 (两大项目 微信点餐平台)
+
+
+springboot 微信点餐平台
+
+
+springcloud 微信点餐平台
+
+
+
+
+
+简历---
+
+
+
+面试题（继承，多态，内部类，泛型，反射。）
+
+js+jq+ajax+vue.js最后
+
+
+
+jdbc:mysql://192.168.0.139:3306/sell?characterEncoding=utf-8&userSSL=false
+
+
+
+
+
+
+
+
+
+
+
+
+
